@@ -31,3 +31,4 @@ IP-адресация, DNS, DHCP, блокировка attendance.mirea.ru, Port
 На Docker установлен docker, создан docker-compose конфиг для контейнеров Prometeus и Graphana
 ![Конфигурация Docker Compose](img/DockerCompose.png)
 
+Ссылка на виртуалньвве машины: https://drive.google.com/file/d/1m-g2WDIyCOWEEUgywuyt5AA0mZOn2Zqf/view?usp=sharing.
